@@ -2,7 +2,7 @@ Artificial Intelligence (AI) is transforming industries, reshaping business stra
 
 Designed for **students, professionals, and AI researchers**, this course integrates **rigorous theoretical foundations** with **practical coding exercises**, ensuring learners develop a deep understanding of AI algorithms and their applications in **finance, healthcare, robotics, NLP, cybersecurity, and more**.  
 
-This course is inspired by MIT, Stanford, and Harvard’s AI programs, combining the rigor of **academic research** with the **industry-standard practices** used by AI engineers at companies like **Google, OpenAI, Facebook AI, DeepMind, and Tesla**.  
+This is inspired by MIT, Stanford, and Harvard’s AI programs, combining the rigor of **academic research** with the **industry-standard practices** used by AI engineers at companies like **Google, OpenAI, Facebook AI, DeepMind, and Tesla**.  
 
 > **📢 Key Highlights:**  
 > - Learn **50+ AI Techniques** from top **Machine Learning & Deep Learning books**.  
