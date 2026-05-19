@@ -599,3 +599,4 @@ This is inspired by MIT, Stanford, and Harvard’s AI programs, combining the ri
 - **Official (📜)**: Well-known in ML circles, with endorsements from leading AI experts.  
 - **Educational (🎓)**: Ideal as a “crash course” or supplement to more detailed texts.
 
+Verified on: 2026-05-19
